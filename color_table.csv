@@ -1,0 +1,56 @@
+﻿高砖颜色,高砖色号,LDD色号,RB色号,BrickOwl,COLOR,LDraw,高砖颜色
+大红,010,21 - Bright Red,Red,81,5,4,大红
+粉红,011,222 - Light Purple,Bright Pink,45,104,29,粉红
+桃红,012,221 - Bright Purple,Dark Pink,17,47,5,桃红
+紫红,013,124 - Bright Reddish Violet,Magenta,72,71,26,紫红
+柿红,014,154 - New Dark Red,Dark Red,56,59,320,柿红
+橙黄,021,106 - Bright Orange,Orange,80,4,25,橙黄
+黄色,030,24 - Bright Yellow,Yellow,93,3,14,黄色
+杏黄,031,5 - Brick Yellow,Tan,89,2,19,杏黄
+浅肉,032,283 - Light Nougat,Light Flesh,65,90,78,浅肉
+牙黄,033,226 - Cool Yellow,Bright Light Yellow,44,103,226,牙黄
+土黄,034,138 - Sand Yellow,Dark Tan,57,69,28,土黄
+金黄,035,297 - Warm Gold,Pearl Gold,120,115,297,金黄
+深黄,036,191 - Flame Yellowish Orange,Bright Light Orange,43,110,191,深黄
+亮金,037,,,,,,亮金
+绿色,040,28 - Dark Green,Green,61,6,2,绿色
+军绿,041,,,,,,军绿
+草绿,042,119 - Bright Yellowish Green,Lime,70,34,27,草绿
+果绿,043,37 - Bright Green,Bright Green,41,36,10,果绿
+浅绿,044,326 - Spring Yellowish Green,Yellowish Green,94,158,,浅绿
+粉绿,045,323 - Aqua,Light Aqua,62,152,323,粉绿
+翠绿,046,322 - Medium Azur,Medium Azure,73,156,322,翠绿
+墨绿,047,141 - Earth Green,Dark Green,20,80,288,墨绿
+渐绿,048,151 - Sand Green,Sand Green,18,48,378,渐绿
+马丁绿,049,330 - Olive Green,Olive Green,79,155,330,马丁绿
+蓝色,050,23 - Bright Blue,Blue,39,7,1,蓝色
+天蓝,051,321 - Dark Azur,Dark Azure,47,153,321,天蓝
+浅蓝,052,102 - Medium Blue,Medium Blue,14,42,73,浅蓝
+粉蓝,053,212 - Light Royal Blue,Bright Light Blue,42,105,212,粉蓝
+蓝灰,054,135 - Sand Blue,Sand blue,85,55,379,蓝灰
+宝蓝,055,140 - Earth Blue,Dark Blue,48,63,272,宝蓝
+紫色,060,268 - Medium Lilac,Dark Purple,55,89,85,紫色
+蓝光紫,062,324 - Medium Lavender,Medium Lavender,76,157,30,蓝光紫
+浅紫,063,325 - Lavender,Lavender,36,154,31,浅紫
+浅灰,071,194 - Medium Stone Grey,Light Bluish Gray,64,86,71,浅灰
+深灰,072,199 - Dark Stone Grey,Dark Bluish Gray,50,85,72,深灰
+浅银灰,073,315 - Silver Metallic,Flat Silver,117,95,179,浅银灰
+黑色,080,26 - Black,Black,38,11,0,黑色
+棕色,081,192 - Reddish Brown,Reddish Brown,82,88,70,棕色
+棕枣,082,308 - Dark Brown,Dark Brown,51,120,308,棕枣
+咖啡,083,38 - Dark Orange,Dark Orange,54,68,484,咖啡
+浅咖啡,084,312 - Medium Nougat,Medium Dark Flesh,74,150,84,浅咖啡
+橙棕,085,,,,,,橙棕
+白色,090,1 - White,White,92,1,15,白色
+乳白,091,,,,,,乳白
+明红,110,41 - Tr. Red,Trans-Red,108,17,36,明红
+明紫红,111,113 - Tr.Medium Reddish Violet,Trans-Dark Pink,99,50,37,明紫红
+明橙,120,182 - Tr. Bright Orange,Trans-Orange,105,98,57,明橙
+明黄,130,44 - Tr. Yellow,Trans-Yellow,109,19,46,明黄
+明绿,140,48 - Tr. Green,Trans-Green,100,20,34,明绿
+明草绿,141,49 - Tr. Fluore. Green,Trans-Neon Green,103,16,42,明草绿
+明蓝,150,43 - Tr. Blue,Trans-Dark Blue,98,14,33,明蓝
+明浅蓝,152,42 - Tr. Light Blue,Trans-Light Blue,101,15,43,明浅蓝
+明紫,160,126 - Tr.Bright Bluish Violet,Trans-Purple,107,51,52,明紫
+明茶,170,111 - Tr. Brown,Trans-Black,95,13,40,明茶
+全透明,180,40 - Transparent,Trans-Clear,97,12,47,全透明
